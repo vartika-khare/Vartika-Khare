@@ -12,7 +12,7 @@
 
 - 🎓 IT Student
 - 💻 Interested in Software Development
-- 🌱 Currently learning C and Python
+- 🌱 Currently learning C 
 - 🚀 Exploring programming and problem solving
 - 🎯 Working towards becoming a Software Engineer
 
